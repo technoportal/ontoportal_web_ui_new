@@ -611,8 +611,7 @@ en:
     include_name: Please include your name
     index:
       agents_tooltip: Top 5 agents with the highest ontology usage
-      tagline: The home of ontologies and semantic artefacts in agri-food and related
-        domains.
+      tagline: Your ontology repository for the engineering and technology domain.
       title: Welcome to %{site}
       welcome: Welcome to %{site},
     individuals: Individuals
