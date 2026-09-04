@@ -182,7 +182,7 @@
             = link_to slice_link do
               .home-slice-icon
                 .home-slice-ontologies
-                  = slice.ontologies.length
+                  = Array(slice.ontologies).length
                 = inline_svg 'icons/slices.svg', width: "70", height: "70"
 
               .home-slice-name
